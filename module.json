@@ -1,0 +1,44 @@
+{
+   "id":"durgaz-arvtagare",
+   "title":"Durgaz arvtagare",
+   "description":"Äventyrsmodul - Endast för personligt bruk",
+   "url":"https://github.com/perssonkrister/durgaz-arvtagare",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/durgaz-arvtagare/master/module.json",
+   "download":"https://github.com/perssonkrister/durgaz-arvtagare/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.2",
+               "verified":"1.9.4"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Durgaz arvtagare",
+         "name":"durgaz-arvtagare",
+         "path":"./packs/durgaz-arvtagare.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/durgaz-arvtagare/img/Cover_image.jpg"
+      }
+   ]
+}
