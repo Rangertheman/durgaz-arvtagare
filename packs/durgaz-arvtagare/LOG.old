@@ -1,0 +1,8 @@
+2025/04/17-22:06:06.598 d7fc Recovering log #162
+2025/04/17-22:06:06.600 d7fc Delete type=0 #162
+2025/04/17-22:06:06.600 d7fc Delete type=3 #160
+2025/04/17-22:40:04.434 b200 Level-0 table #167: started
+2025/04/17-22:40:04.435 b200 Level-0 table #167: 0 bytes OK
+2025/04/17-22:40:04.435 b200 Delete type=0 #165
+2025/04/17-22:40:04.437 b200 Manual compaction at level-0 from '!adventures!fqQAXQLl04vu5U2T' @ 72057594037927935 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at (end)
+2025/04/17-22:40:04.437 b200 Manual compaction at level-1 from '!adventures!fqQAXQLl04vu5U2T' @ 72057594037927935 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at (end)
