@@ -1,10 +1,10 @@
 {
    "id":"durgaz-arvtagare",
    "title":"Durgaz arvtagare",
-   "description":"Äventyrsmodul - Lehto Spel & Media",
-   "url":"https://github.com/perssonkrister/durgaz-arvtagare",
-   "manifest":"https://raw.githubusercontent.com/perssonkrister/durgaz-arvtagare/master/module.json",
-   "download":"https://github.com/perssonkrister/durgaz-arvtagare/archive/master.zip",
+   "description":"Durgaz arvtagare - Lehto Spel & Media",
+   "url":"https://github.com/Rangertheman/durgaz-arvtagare",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/durgaz-arvtagare/master/module.json",
+   "download":"https://github.com/Rangertheman/durgaz-arvtagare/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.9",
+   "version":"0.0.10",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
