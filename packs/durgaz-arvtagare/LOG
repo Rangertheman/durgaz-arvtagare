@@ -1,15 +1,15 @@
-2025/04/21-15:49:46.884 12f74 Recovering log #214
-2025/04/21-15:49:46.886 12f74 Delete type=0 #214
-2025/04/21-15:49:46.886 12f74 Delete type=3 #212
-2025/04/21-17:15:24.629 c7cc Level-0 table #219: started
-2025/04/21-17:15:24.672 c7cc Level-0 table #219: 826977 bytes OK
-2025/04/21-17:15:24.673 c7cc Delete type=0 #217
-2025/04/21-17:15:24.673 c7cc Manual compaction at level-0 from '!adventures!fqQAXQLl04vu5U2T' @ 72057594037927935 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at (end)
-2025/04/21-17:15:24.673 c7cc Manual compaction at level-1 from '!adventures!fqQAXQLl04vu5U2T' @ 72057594037927935 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at '!adventures!fqQAXQLl04vu5U2T' @ 16 : 1
-2025/04/21-17:15:24.673 c7cc Compacting 1@1 + 1@2 files
-2025/04/21-17:15:24.697 c7cc Generated table #220@1: 1 keys, 413536 bytes
-2025/04/21-17:15:24.697 c7cc Compacted 1@1 + 1@2 files => 413536 bytes
-2025/04/21-17:15:24.698 c7cc compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/04/21-17:15:24.699 c7cc Delete type=2 #207
-2025/04/21-17:15:24.699 c7cc Delete type=2 #219
-2025/04/21-17:15:24.707 c7cc Manual compaction at level-1 from '!adventures!fqQAXQLl04vu5U2T' @ 16 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at (end)
+2025/04/21-17:29:49.860 12f74 Recovering log #218
+2025/04/21-17:29:49.861 12f74 Delete type=0 #218
+2025/04/21-17:29:49.862 12f74 Delete type=3 #216
+2025/04/21-17:55:07.191 c7cc Level-0 table #224: started
+2025/04/21-17:55:07.209 c7cc Level-0 table #224: 413625 bytes OK
+2025/04/21-17:55:07.211 c7cc Delete type=0 #222
+2025/04/21-17:55:07.211 c7cc Manual compaction at level-0 from '!adventures!fqQAXQLl04vu5U2T' @ 72057594037927935 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at (end)
+2025/04/21-17:55:07.211 c7cc Manual compaction at level-1 from '!adventures!fqQAXQLl04vu5U2T' @ 72057594037927935 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at '!adventures!fqQAXQLl04vu5U2T' @ 18 : 1
+2025/04/21-17:55:07.211 c7cc Compacting 1@1 + 1@2 files
+2025/04/21-17:55:07.231 c7cc Generated table #225@1: 1 keys, 413625 bytes
+2025/04/21-17:55:07.231 c7cc Compacted 1@1 + 1@2 files => 413625 bytes
+2025/04/21-17:55:07.232 c7cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/21-17:55:07.232 c7cc Delete type=2 #220
+2025/04/21-17:55:07.232 c7cc Delete type=2 #224
+2025/04/21-17:55:07.234 c7cc Manual compaction at level-1 from '!adventures!fqQAXQLl04vu5U2T' @ 18 : 1 .. '!adventures!fqQAXQLl04vu5U2T' @ 0 : 0; will stop at (end)
